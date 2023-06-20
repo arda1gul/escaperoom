@@ -5,7 +5,7 @@
 
 
 body {
-    background-image: url("/img/room1.png");
+    background-image: url("img/room1.png");
     background-repeat: no-repeat;
     background-size: 1600px 800px;
     overflow: hidden;

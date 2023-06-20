@@ -23,7 +23,7 @@
 }
 
 body {
-    background: url("/img/room2.png");
+    background: url("img/room2.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
