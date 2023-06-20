@@ -1,11 +1,11 @@
 @font-face {
     font-family: Devils Crew;
-    src: url("/fonts/devilscrew.otf");
+    src: url("fonts/devilscrew.otf");
 }
 
 @font-face {
     font-family: Arrows;
-    src: url("/fonts/kgflavorandframesthree.ttf");
+    src: url("fonts/kgflavorandframesthree.ttf");
 }
 
 * {

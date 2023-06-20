@@ -1,11 +1,11 @@
 @font-face {
     font-family: Devils Crew;
-    src: url("/fonts/devilscrew.otf");
+    src: url("fonts/devilscrew.otf");
 }
 
 @font-face {
     font-family: Arrows;
-    src: url("/fonts/kgflavorandframesthree.ttf");
+    src: url("fonts/kgflavorandframesthree.ttf");
 }
 
 * {
@@ -13,7 +13,7 @@
 }
 
 body {
-    background-image: url("/img/building.png");
+    background-image: url("img/building.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -1,6 +1,6 @@
 @font-face {
     font-family: horror;
-    src: url(/fonts/horroroid.ttf);
+    src: url(fonts/horroroid.ttf);
 }
 @-webkit-keyframes fadeIn {
     0% { opacity: 0;  }
